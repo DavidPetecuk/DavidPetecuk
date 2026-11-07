@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm David 👋
 
-<!--
-**DavidPetecuk/DavidPetecuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in exploring data, discovering patterns and building intelligent solutions.
 
-Here are some ideas to get you started:
+Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data Science & Data Analytics
+
+🤖 Machine Learning
+
+⚙️ Automation
+
+💡 Data-driven Solutions
+
+About Me
+
+I enjoy working with data, exploring new technologies and developing solutions that turn complex information into meaningful insights.
